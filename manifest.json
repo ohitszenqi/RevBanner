@@ -1,0 +1,11 @@
+{
+  "name": "PersonalBanner",
+  "description": "Display a custom GIF or image banner on your profile — client-side only, only you can see it.",
+  "authors": [
+    {
+      "name": "you",
+      "id": "000000000000000000"
+    }
+  ],
+  "main": "index.js"
+}
